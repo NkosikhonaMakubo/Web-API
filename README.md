@@ -74,3 +74,28 @@ To interact with the API, follow these steps:
 
 ## Link to API
 [API Endpoint](https://restapiproject20240812150408.azurewebsites.net/swagger/index.html)
+
+## References
+1. Microsoft Documentation. (2023) Entity Framework Core - Migrations. Available at: https://docs.microsoft.com/en-us/ef/core/managing-schemas/migrations/ (Accessed: 6 August 2024).
+
+2. Microsoft Documentation. (2023) ASP.NET Core Web API Documentation. Available at: https://docs.microsoft.com/en-us/aspnet/core/web-api/ (Accessed: 12 August 2024).
+
+3. Microsoft Documentation. (2023) Azure App Service Overview. Available at: https://docs.microsoft.com/en-us/azure/app-service/ (Accessed: 12 August 2024).
+
+4. Microsoft Documentation. (2023) How to Secure Web APIs with Azure Active Directory. Available at: https://docs.microsoft.com/en-us/azure/active-directory/develop/secure-web-api (Accessed: 7 August 2024).
+
+5. GitHub Documentation. (2023) Ignoring Files: The .gitignore file. Available at: https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files (Accessed: 11 August 2024).
+
+6. Microsoft Documentation. (2023) How to deploy an ASP.NET Core Web App to Azure. Available at: https://docs.microsoft.com/en-us/azure/app-service/app-service-web-tutorial-dotnetcore-sqldb (Accessed: 7 August 2024).
+
+7. Microsoft Documentation. (2023) How to Use EF Core with ASP.NET Core MVC. Available at: https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/ (Accessed: 8 August 2024).
+
+8. Microsoft Documentation. (2023) ASP.NET Core Dependency Injection. Available at: https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection/ (Accessed: 12 August 2024).
+
+9. Microsoft Documentation. (2023) Configuring Connection Strings in ASP.NET Core. Available at: https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/options/ (Accessed: 12 August 2024).
+
+10. Microsoft Documentation. (2023) Azure SQL Database Overview. Available at: https://docs.microsoft.com/en-us/azure/azure-sql/database/sql-database-paas-overview (Accessed: 8 August 2024).
+
+11. Microsoft Documentation. (2023) Introduction to Authentication and Authorization in ASP.NET Core. Available at: https://docs.microsoft.com/en-us/aspnet/core/security/authorization/introduction/ (Accessed: 12 August 2024).
+
+12. GitHub Documentation. (2023) Git Basics - Getting Started with Git. Available at: https://docs.github.com/en/get-started/quickstart (Accessed: 9 August 2024).
