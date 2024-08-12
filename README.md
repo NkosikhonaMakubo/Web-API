@@ -1,6 +1,5 @@
 # Project-2-Web-API-32815069-
 Web API Development
-# CMPG323-Project-2-34385479
 
 ### About the Project:
 This project is a Web API that works with a SQL Server database called `cmpg323projdb-dev`, hosted on Azure.
